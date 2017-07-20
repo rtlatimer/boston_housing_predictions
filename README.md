@@ -7,7 +7,7 @@ April 14, 2017
 
 The goal of this project is to apply basic machine learning concepts on Boston house pricing data to predict the selling price of a new home. We begin by exploring the data to obtain important features and descriptive statistics. Then, we split the data into training and testing sets and determine a suitable performance metric. We then analyze performance graphs for a learning algorithm with various parameters and training set sizes and choose a model that best generalizes for unseen data. Lastly, we test the optimal model on a new sample to see how accurately it can predict a selling price.
 
-You can view the full detail of the project [here](boston_housing_predictions/boston_housing_rlatimer.ipynb).
+You can view the full detail of the project [here](https://github.com/rtlatimer/boston_housing_predictions/blob/master/boston_housing_rlatimer.ipynb).
 
 ### Install
 
